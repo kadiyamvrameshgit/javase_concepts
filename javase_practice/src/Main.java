@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
 
+        Addition.methodOne(100,20);
     }
 }
